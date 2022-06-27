@@ -1,0 +1,16 @@
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\bin\Debug\net5.0\Lab1Ex2.exe
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\bin\Debug\net5.0\Lab1Ex2.deps.json
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\bin\Debug\net5.0\Lab1Ex2.runtimeconfig.json
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\bin\Debug\net5.0\Lab1Ex2.runtimeconfig.dev.json
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\bin\Debug\net5.0\Lab1Ex2.dll
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\bin\Debug\net5.0\Lab1Ex2.pdb
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\obj\Debug\net5.0\Lab1Ex2.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\obj\Debug\net5.0\Lab1Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\obj\Debug\net5.0\Lab1Ex2.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\obj\Debug\net5.0\Lab1Ex2.AssemblyInfo.cs
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\obj\Debug\net5.0\Lab1Ex2.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\obj\Debug\net5.0\Lab1Ex2.dll
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\obj\Debug\net5.0\refint\Lab1Ex2.dll
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\obj\Debug\net5.0\Lab1Ex2.pdb
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\obj\Debug\net5.0\Lab1Ex2.genruntimeconfig.cache
+C:\Users\resid\Desktop\ОП\Лабораторная №5\Lab1Ex2\obj\Debug\net5.0\ref\Lab1Ex2.dll
